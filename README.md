@@ -1,3 +1,1 @@
-- 🔭 I'm currently working on becoming a great software developer
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cats 
+
